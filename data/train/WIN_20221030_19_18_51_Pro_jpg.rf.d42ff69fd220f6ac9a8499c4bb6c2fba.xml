@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>WIN_20221030_19_18_51_Pro_jpg.rf.d42ff69fd220f6ac9a8499c4bb6c2fba.jpg</filename>
+	<path>WIN_20221030_19_18_51_Pro_jpg.rf.d42ff69fd220f6ac9a8499c4bb6c2fba.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
