@@ -8,7 +8,7 @@ The project requires all the packages `requirements.txt` specified.
 
 ## Dataset
 
-The dataset provided in the `data`[data] (https://github.com/nazlicanto/PCB-Defect-Detection-Segmentation/tree/main/data) folder, consists of images and their corresponding annotations in XML format. It provides mid & high-resolution images of PCBs and each of the annotated to indicate defects. 
+The dataset provided in the `data` folder, consists of images and their corresponding annotations in XML format. It provides mid & high-resolution images of PCBs and each of the annotated to indicate defects. 
 For an in-depth understanding of the dataset & structures and to utilize it in different formats visit [Roboflow](https://universe.roboflow.com/diplom-qz7q6/defects-2q87r/dataset/16).
 
 ## Usage
