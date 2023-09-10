@@ -1,7 +1,4 @@
-# PCB-Defect-Detection-Segmentation
-PCB defect detection and segmentation using SegFormer architecture
-
-## Project Overview
+# PCB Defect Detection and Segmentation using SegFormer Architecture
 
 The project is designed to detect and segment defects in PCBs (Printed Circuit Boards) utilizing the  SegFormer architecture,  aiming to enhance the quality standards in manufacturing processes. Project covers a series of steps such as data visualization, data preprocessing, model training, and inference.
 
@@ -16,14 +13,16 @@ For an in-depth understanding of the dataset & structures and utilize it in diff
 
 ## Usage
 
--Set up the environment and install the necessary packages. 
--Import the required libraries. 
--Define the data transformations and create a custom dataset class for loading the data. 
--Set up the training arguments and define the metrics for evaluation.
--Train the Segformer model using the Hugging Face's Trainer class.
--Perform inference on the validation set and visualize the segmentation results.
+1. Set up the environment and install the necessary packages. 
+2. Import the required libraries. 
+3. Define the data transformations and create a custom dataset class for loading the data. 
+4. Set up the training arguments and define the metrics for evaluation.
+5. Train the Segformer model using the Hugging Face's Trainer class.
+6. Perform inference on the validation set and visualize the segmentation results.
 
-####  `defect_seg.ipynb:` The main Jupyter notebook containing all the scripts for the project.
+
+#### The main Jupyter notebook containing all the scripts for the project: `defect_seg.ipynb:`
+
 
 ## Results
 
@@ -32,11 +31,11 @@ The results section will include visualizations such as the defect heatmap, defe
 
 ## Demonstrations
 
-### Incorrect Installation Original - Masked 
-https://github.com/nazlicanto/PCB-Defect-Detection-Segmentation/blob/main/samples/1.png
+#### Incorrect Installation Original - Masked 
+![2](https://github.com/nazlicanto/PCB-Defect-Detection-Segmentation/blob/main/samples/1.png)
 
-### Short-Circuit Original - Masked 
-https://github.com/nazlicanto/PCB-Defect-Detection-Segmentation/blob/main/samples/2.png
+#### Short-Circuit Original - Masked 
+![1]https://github.com/nazlicanto/PCB-Defect-Detection-Segmentation/blob/main/samples/2.png
 
 
 ## Notes:
