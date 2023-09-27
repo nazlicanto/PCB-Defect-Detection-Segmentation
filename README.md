@@ -8,8 +8,8 @@ The project requires all the packages `requirements.txt` specified.
 
 ## Dataset
 
-The dataset provided in the `data`folder, consists of images and their corresponding annotations in XML format. It provides mid & high-resolution images of PCBs and each of the annotated to indicate defects. 
-For an in-depth understanding of the dataset & structures and utilize it in different formats visit [Roboflow](https://universe.roboflow.com/diplom-qz7q6/defects-2q87r/dataset/16).
+The dataset provided in the `data` folder, consists of images and their corresponding annotations in XML format. It provides mid & high-resolution images of PCBs and each of the annotated to indicate defects. 
+For an in-depth understanding of the dataset & structures and to utilize it in different formats visit [Roboflow](https://universe.roboflow.com/diplom-qz7q6/defects-2q87r/dataset/16).
 
 ## Usage
 
@@ -21,12 +21,12 @@ For an in-depth understanding of the dataset & structures and utilize it in diff
 6. Perform inference on the validation set and visualize the segmentation results.
 
 
-#### The main Jupyter notebook containing all the scripts for the project: `defect_seg.ipynb:`
+#### The main Jupyter notebook containing all the scripts for the project: `defect_seg.ipynb`
 
 
 ## Results
 
-The results section will include visualizations such as the defect heatmap, defect size distribution, and examples of segmented outputs.
+The notebook includes, Visualizations: Defect Heatmap, Defect Size Distribution, examples of Segmented Outputs and the Model Outcomes.
 
 
 ## Demonstrations
@@ -35,7 +35,7 @@ The results section will include visualizations such as the defect heatmap, defe
 ![2](https://github.com/nazlicanto/PCB-Defect-Detection-Segmentation/blob/main/samples/1.png)
 
 #### Short-Circuit Original - Masked 
-![1]https://github.com/nazlicanto/PCB-Defect-Detection-Segmentation/blob/main/samples/2.png
+![1](https://github.com/nazlicanto/PCB-Defect-Detection-Segmentation/blob/main/samples/2.png)
 
 
 ## Notes:
